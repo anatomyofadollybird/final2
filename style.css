@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:right;
+    overflow:hidden;
+  }
+  canvas {
+    display: block;
+    width:100vw !important;
+    height:100vh !important;
+  }
+  
+  p{
+    position:absolute;
+    padding:0px;
+    top:150px;
+    left:1300px;
+    color:chartreuse;
+    z-index:1000;
+  }
