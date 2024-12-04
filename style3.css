@@ -8,8 +8,9 @@ html, body {
 
 video{
     position:fixed;
-    width:100vw !important;
+    width:114vw !important;
     height:100vh !important;
+    left:-90px;
     object-fit: fill;
 }
 
