@@ -26,8 +26,9 @@ img{
 
 video{
    opacity:0.25;
-   width:100vw !important;
+   width:114vw !important;
    height:100vh !important;
+   left:-90px;
    object-fit: fill;
    pointer-events:none;
    z-index:2;
